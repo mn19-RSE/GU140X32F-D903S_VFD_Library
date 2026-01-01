@@ -1,3 +1,6 @@
+# NOTE:
+This library is a learning experiment and does not currently work
+
 # GU140X32F-D903S_VFD_Library
 Modern Arduino library for the Noritake GU140X32F-D903S graphical VFD.
 Controller is:
